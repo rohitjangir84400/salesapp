@@ -1,0 +1,7 @@
+-->uses  tailwind css for the application.
+-->design is fully responsive.
+-->create components and use them on the different pages of the application by importing them.
+-->steps to run the aplication.
+   --> cd simpleapp
+   --> npm i
+   --> npm run start

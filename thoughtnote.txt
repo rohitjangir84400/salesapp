@@ -1,0 +1,18 @@
+----------      BACKEND     --------------
+
+To start backend server run commands in terminal 
+    -----cd backend
+    -----npm i
+    -----nodemon or ----node index.js
+
+---------      frontend     --------------
+
+-Fully responsive design
+-use axios
+-use redux 
+
+To start frontend run commands in terminal
+
+    ------cd simpleapp
+    ------npm i
+    ------npm run start
